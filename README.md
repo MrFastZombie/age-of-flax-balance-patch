@@ -1,6 +1,16 @@
 # age-of-flax-balance-patch
-Vintage Story mod: rebalances the outputs of the Age of Flax mod.
+Vintage Story patch mod that patches the [Age of Flax](https://mods.vintagestory.at/show/mod/33768) mod to introduce balance changes suggested by a [comment left by Xirsoi](https://mods.vintagestory.at/show/mod/33768#cmt-111003).
 
+## Installation
+
+Download the zip file from the resleases section and put it in `AppData/Roaming/VintagestoryData/Mods`.
+
+WARNING: If you use a launcher, it may store instances elsewhere. The easiest way to get to the folder is to launch the game, open the mods menu, and click "Open mods folder".
+
+## Testing results
+
+![Test results of drop rates before patch.](/results-before-patch.png)
+![Test results of drop rates after patch.](/results-after-patch.png)
 
 ## Summary of Changes
 

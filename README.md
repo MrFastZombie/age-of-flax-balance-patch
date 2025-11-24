@@ -8,6 +8,7 @@ Download the zip file from the releases section and put it in `AppData/Roaming/V
 WARNING: If you use a launcher, it may store instances elsewhere. The easiest way to get to the folder is to launch the game, open the mods menu, and click "Open mods folder".
 
 ## Testing results
+Each drop was tested with 5 samples. The averages are not 100% accurate but seem close enough.
 
 ![Test results of drop rates before patch.](/results-before-patch.png)
 ![Test results of drop rates after patch.](/results-after-patch.png)

@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "age-of-flax-balance-patch",
+  "name": "Age of Flax Balance Patch",
+  "authors": ["MrFastZombie"],
+  "description": "Rebalances the outputs of Age of Flax based on suggestions by Xirsoi on the moddb.",
+  "version": "1.0.1",
+  "dependencies": {
+    "game" : "1.20.0",
+	"ageofflax": "1.1.1"
+  }
+}

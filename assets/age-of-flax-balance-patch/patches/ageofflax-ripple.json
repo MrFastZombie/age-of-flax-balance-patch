@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-primitive-*/flaxGrainDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 4.13,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-simple-*/flaxGrainDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 6,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-advanced-*/flaxGrainDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 7.67,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-primitive-*/flaxSeedDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 1.2,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-simple-*/flaxSeedDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 1.5,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-advanced-*/flaxSeedDropAvg",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 1.7,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-simple-*/flaxGrainDropVar",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/ripple-advanced-*/flaxGrainDropVar",
+		"file": "ageofflax:blocktypes/tool/ripple",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	}
+]

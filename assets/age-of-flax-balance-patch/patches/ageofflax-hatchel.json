@@ -1,0 +1,56 @@
+[
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-primitive-*/flaxDropAvg",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 5.67,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-primitive-*/flaxDropVar",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-simple-*/flaxDropAvg",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 8.1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-simple-*/flaxDropVar",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-advanced-*/flaxDropAvg",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 10.53,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/attributesByType/hatchel-advanced-*/flaxDropVar",
+		"file": "ageofflax:blocktypes/tool/hatchel",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflax"}
+		]
+	}
+]

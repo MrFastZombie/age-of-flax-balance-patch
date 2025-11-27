@@ -3,7 +3,7 @@ Vintage Story patch mod that patches the [Age of Flax](https://mods.vintagestory
 
 ## Installation
 
-Download the zip file from the releases section and put it in `AppData/Roaming/VintagestoryData/Mods`.
+Download the zip file from the releases section and put it in `%AppData%/VintagestoryData/Mods`.
 
 WARNING: If you use a launcher, it may store instances elsewhere. The easiest way to get to the folder is to launch the game, open the mods menu, and click "Open mods folder".
 

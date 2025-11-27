@@ -10,7 +10,7 @@ WARNING: If you use a launcher, it may store instances elsewhere. The easiest wa
 ## Testing results
 Each drop was tested with 5 samples. The averages are not 100% accurate but seem close enough.
 
-For the sake of comparison to vanilla: Simple drops should be roughly equivalent, except with slightly more seeds.
+For the sake of comparison to vanilla: Simple drops after the patch should be roughly equivalent, except with slightly more seeds.
 
 ![Test results of drop rates before patch.](/results-before-patch.png)
 ![Test results of drop rates after patch.](/results-after-patch.png)

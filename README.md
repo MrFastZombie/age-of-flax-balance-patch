@@ -50,4 +50,4 @@ For the sake of comparison to vanilla: Simple drops after the patch should be ro
 | flaxDropAvg  | 5.67 | 8.1 | 10.53 |
 | flaxDropVar  | 1 | 1 | 1 |
 
-<img width="411" height="450" alt="Photoshop_ExHgUUk3o2" src="https://github.com/user-attachments/assets/7a1bc9b5-a5bc-4e34-ae71-54c5f1cff419" />
+<img width="411" height="450" alt="the-funny" src="https://github.com/user-attachments/assets/d34d3298-0cdf-4ca5-a445-99ed46f33937" />

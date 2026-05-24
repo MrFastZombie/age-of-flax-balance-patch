@@ -1,0 +1,137 @@
+[
+    {
+		"op": "replace",
+		"path": "/hatchel/primitive/fiberDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 5.67,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/hatchel/primitive/fiberDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/hatchel/simple/fiberDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 8.1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/hatchel/simple/fiberDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/hatchel/advanced/fiberDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 10.53,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/hatchel/advanced/fiberDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/primitive/grainDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 4.13,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/primitive/seedDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 1.2,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/primitive/grainDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/simple/grainDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 6,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/simple/seedDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 1.5,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/simple/grainDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/advanced/grainDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 7.67,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/advanced/seedDropAvg",
+		"file": "ageofflax:config/balance",
+		"value": 1.7,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/ripple/advanced/grainDropVar",
+		"file": "ageofflax:config/balance",
+		"value": 1,
+		"dependsOn": [
+			{"modid": "ageofflaxfork"}
+		]
+	}
+]

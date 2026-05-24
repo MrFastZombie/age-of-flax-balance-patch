@@ -1,6 +1,9 @@
 # age-of-flax-balance-patch
 Vintage Story patch mod that patches the [Age of Flax](https://mods.vintagestory.at/show/mod/33768) mod to introduce balance changes suggested by a [comment left by Xirsoi](https://mods.vintagestory.at/show/mod/33768#cmt-111003).
 
+### NOTE
+Now works with the fork on the ModDB! Make sure you have version 1.1.5 or newer of the fork. The original patches are still included, but may need updates if the original mod updates!
+
 ## Installation
 
 Download the zip file from the releases section and put it in `%AppData%/VintagestoryData/Mods`.
